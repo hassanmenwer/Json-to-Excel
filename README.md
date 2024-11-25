@@ -3,10 +3,10 @@
 <h1>Project Description:</h1>
 The task of converting data from JSON format to Excel was carried out in order to organize the information in a way that is suitable for display or processing. The process included the following steps:
 
-<p1>Reading Data:</p1>
+<h1>Reading Data:</h1>
 The JSON file was read and its data was analyzed to extract the required information.
 
-Data Processing:
+<h10>Data Processing:</h10>
 The data was processed and reformatted to fit the table structure in the Excel file, with columns and rows assigned based on the nature of the data.
 
 Creating Excel File:
